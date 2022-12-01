@@ -4,17 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-<<<<<<< HEAD
-  - enabled: 1
-    path: Assets/Scenes/DEV_Playground.unity
-    guid: 677e88723a1b24d8eb96f19e23a07d18
-=======
->>>>>>> movement
+  m_Scenes: []
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 816ac5eb9cedb4ddea1c2e5caca47240,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ebaf95ecaef1742569501fbdbf60d470,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ff4b09266d5e54754b3d38b042ce3222,
